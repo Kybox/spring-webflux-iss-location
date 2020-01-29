@@ -1,6 +1,6 @@
 # spring-webflux-iss-location
 
-Displays the GPS position of the International Space Station in real time on Google Map.
+Displays the GPS position of the International Space Station in real time on Google Maps.
 
 ## Server
 Java 11 Spring Reactive Web Application
