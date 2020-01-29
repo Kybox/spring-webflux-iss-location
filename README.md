@@ -9,6 +9,7 @@ RUN /server/mvn spring-boot:run to start the application
 
 ## Client
 Angular 8 JS Application
+
 @agm/core library installed => ! API key needed !
 
 RUN "/client/ng serve" to start the application
