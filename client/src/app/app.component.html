@@ -1,0 +1,12 @@
+<div class="container">
+  <agm-map [latitude]="lat"
+           [longitude]="lng"
+           [zoom]="zoom"
+           [mapTypeId]="mapType"
+           [streetViewControl]="false"
+           class="map">
+    <agm-marker [latitude]="lat"
+                [longitude]="lng"
+                [iconUrl]="icon"></agm-marker>
+  </agm-map>
+</div>
